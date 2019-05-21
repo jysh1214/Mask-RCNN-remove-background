@@ -1,7 +1,7 @@
 # Mask-RCNN-remove-background
 Remove background of image by Mask-RCNN.
 
-## Prerequisites
+## Credit
 [Mask RCNN](https://github.com/matterport/Mask_RCNN)
 
 ## Use
